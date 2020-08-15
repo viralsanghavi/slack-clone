@@ -1,0 +1,22 @@
+let a = {
+	"sample1":{"first_name":"ABCD","last_name":"XYZ"},
+    "sample2":{"first_name":"MNOP","last_name":"XYZ1"}
+}
+let b = {
+	"sample1":{"first_name":"Red","last_name":"ORANGE"}
+}
+
+
+c = {a,b}
+
+
+Tickets numbered 1 to 40 are mixed up and then a ticket is drawn at random. 
+What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?
+
+15 30
+11 + 8 = 40
+
+Find the kth smallest element in the sorted array?
+arrayName[k]
+
+Given a sorted array and element ‘k’, find two elements in the array sum of which is equal to ‘k’
